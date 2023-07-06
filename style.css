@@ -68,4 +68,35 @@
     text-align: center;
     padding: 20px;
 }
+.box {
+    width: 230px;
+    height: 280px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+.icon {
+    width: 70px;
+    background-color: black;
+}
+.box-button {
+    background-color: gray;
+    margin-top: 10px;
+}
+.box-title {
+    padding: 10px;
+}
+.box-description {
+    padding: 5px;
+}
+.service-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    color: white;
+    background-image: url(image/background.png),
+    linear-gradient(rgb(8, 8, 8),rgb(54, 54, 54));
+}
     
