@@ -99,4 +99,17 @@
     background-image: url(image/background.png),
     linear-gradient(rgb(8, 8, 8),rgb(54, 54, 54));
 }
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+}
+.footer-box {
+    width: 200px;
+    height: 230px;
+    background-color: black;
+    padding: 15px;
+    color: white;
+    text-align: left;
+}
     
